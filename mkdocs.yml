@@ -1,24 +1,12 @@
-site_name: Blogger
+site_name: ZZZ
 theme:
     name: 'material'
     palette:
-    primary: 'indigo'
-    accent: 'indigo'
-    highlightjs: true
-    hljs_languages:
-        - yaml
-        - rust
-        - python
+    primary: 'pink'
+    accent: 'pink'
     shortcuts:
-        help: 191    # ?
-        next: 78     # n
-        previous: 80 # p
         search: 83   # s
-plugins:
-    - search
-    - awesome-pages
 
 markdown_extensions:
   - admonition
   - codehilite
-  
